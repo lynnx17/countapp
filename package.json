@@ -2,5 +2,8 @@
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack serve"
+  },
+  "devDependencies": {
+    "webpack": "^5.99.8"
   }
 }
