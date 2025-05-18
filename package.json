@@ -1,10 +1,8 @@
-{
-  "scripts": {
-    "build": "webpack --mode production",
-    "start": "webpack serve"
-  },
-  "devDependencies": {
-    "webpack": "^5.99.8",
-    "webpack-cli": "^6.0.1"
-  }
+{"scripts": {
+  "build": "echo \"No build needed\""
+}
+
+,"devDependencies": {
+  "@types/node": "^20.4.3",
+  "typescript": "^5.2.2"
 }
